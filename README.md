@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shely-ux
+- 👀 I’m interested in NLP
+- 🌱 I’m currently learning NLP in phyton
+- 😄 Pronouns: HE/HIM
